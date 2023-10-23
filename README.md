@@ -100,7 +100,36 @@ LG84 - Disabled Toilet
 
 ## First Floor
 
-
+105 - Green Room
+106 - Storage
+109 - TECH SERVICES
+110 - TECH SERVICES
+111 - TECH SERVICES
+112 - TECH SERVICES
+113 - TECH SERVICES
+114 - TECH SERVICES
+115 - Debating Hall
+116 - Amos Room
+119 - Beorma Bar
+125 - Disabled Toilet
+126 - Microwave Room
+127 - Men's Toilet
+128 - Men's Toilet
+129 - Women's Toilet
+130 - Women's Toilet
+131 - Study Space
+133 - Harvey Milk
+135 - Rosa Parks
+136 - Mandela
+138 - Tolkein
+139 - DUTY MANAGERS OFFICE
+140 - VENUES MANAGERS OFFICE
+141 - Men's Washroom (Religious)
+142 - Cleaner's Cupboard
+143 - Prayer Rooms (Men's and Women's)
+144 - Women's Washroom (Religious)
+148 - Cleaner's Cupboard
+149 - Council Chambers
 
 ## Second Floor
 
