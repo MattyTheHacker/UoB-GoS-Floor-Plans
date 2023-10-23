@@ -96,6 +96,61 @@ LG84 - Disabled Toilet
 
 ## Ground Floor
 
+G05 - Disabled Toilet
+
+G06 - Cleaner's Cupboard
+
+G07 - Reception Storage Room
+
+G08 - Drop Safe Room
+
+G10 - Empty (Formely WorkLink)
+
+G13 - Student Groups Office
+
+G14 - Student Groups Storage
+
+G15 - Student Groups Counter
+
+G16 - Admin Office
+
+G18 - Office
+
+G19 - Office
+
+G21 - Student Voice Office
+
+G20 - Guild Advice Office
+
+G23 - Office
+
+G24 - Consultation Room 2
+
+G25 - Consulation Room 1
+
+G28 - FTO Office
+
+G29 - FTO Meeting Room
+
+G32 - Mermaid Bar Kitchen
+
+G34 - Mermaid Bar
+
+G36 - Joe's Bar
+
+G39 - Joe's Kitchen
+
+G41 - Nisa Local
+
+G42 - Storage
+
+G44 - Subway
+
+G48 - Waki Maki
+
+G49 - Cloakroom
+
+G50 - Chillout Room
 
 
 ## First Floor
