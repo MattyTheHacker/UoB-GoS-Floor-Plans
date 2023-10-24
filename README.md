@@ -217,5 +217,80 @@ G50 - Chillout Room
 
 ## Second Floor
 
+224 - Arts Room
+
+225 - Drama Stores (Formerly Carnival RAG)
+
+226 - Drama Stores
+
+227 - McKellan
+
+231 - Deb Hall Balcony
+
+232 - Store Room
+
+236 - Gender Neutral Toilet 
+
+237 - Gender Neutral Toilet
+
+238 - Roomy McRoomFace
+
+239 - Hairdressers
+
+240 - First Aid (SJA LINKS)
+
+243 - Gender Neutral Toilet
+
+244 - Community Pantry
+
+247B- IT Services
+
+247C- OPS
+
+248 - Comms and Marketing
+
+248A- Comms and Marketing
+
+249 - Comms and Marketing
+
+253 - HR
+
+254 - HR
+
+255 - SMT Office
+
+256 - SMT Office
+
+256A - Office
+
+257 - Staff Room
+
+260 - SMT Office
+
+261 - Office
+
+262 - Office
+
+263 - Finance
+
+264 - Finance/Systems
+
+265A- Women's Toilet
+
+266B- Men's Toilet
+
+269 - Office
+
+271 - Meeting Rooms
+
+272 - Community Welfare
+
+273 - PTO Office
+
+274 - Community Wardens
+
+275 - Student Mentors
+
+278 - Room of Requirement
 
 
